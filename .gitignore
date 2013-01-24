@@ -1,5 +1,7 @@
 databases/*
 node_modules
+mountDBFolder.sh
+
 lib-cov
 *.seed
 *.log
